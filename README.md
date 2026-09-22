@@ -1,4 +1,4 @@
-# 🛍️ Full-Stack MERN Product Store
+# 🛍️ Full-Stack MERN Product Store 22/09/2026
 
 A modern, full-stack product management and e-commerce web application built using the MERN stack (MongoDB, Express.js, React, Node.js), featuring containerized local development with Docker Desktop and automated CI/CD workflows via GitHub Actions.
 
